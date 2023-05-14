@@ -6,7 +6,7 @@ import Productslist from "./components/productsPage/productList";
 import Contact from "./components/contact";
 import ProductDetails from "./components/productsPage/productDetails";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Cart from "./components/cart/cart";
+import Cart from "./components/cart/cart"
 
 class App extends Component {
   constructor(props) {
